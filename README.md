@@ -1,4 +1,4 @@
-# Simple-Hotel-Management-System
+# Hotel-Management-System
 Simple desktop  java project. to link database, gui and controller with each other
 
 <p>
